@@ -19,6 +19,7 @@ html{
     display: flex;
     align-items: center;
     position: sticky; 
+    z-index: 2;
     height: 5rem;
     top: 0;
 }
